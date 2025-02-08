@@ -9,3 +9,4 @@ const getStrength = function(piece) {
 }
 
 // fixed a bug
+// fixed another bug
