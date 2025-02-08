@@ -16,3 +16,5 @@ const movePiece = function(piece) {
     }
     return moves;
 }
+
+// add new feature
