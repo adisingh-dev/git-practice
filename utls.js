@@ -7,6 +7,7 @@ const getStrength = function(piece) {
     }
 }
 
+// fixed a bug here
 const movePiece = function(piece) {
     let moves = [[0, 0]];
     switch(piece) {
