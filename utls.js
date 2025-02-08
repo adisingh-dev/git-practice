@@ -10,3 +10,4 @@ const getStrength = function(piece) {
 
 // fixed a bug
 // fixed another bug
+// fixed major bug
