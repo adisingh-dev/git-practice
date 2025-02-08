@@ -7,3 +7,5 @@ const getStrength = function(piece) {
         case "knight": return 3;
     }
 }
+
+// fixed a bug
