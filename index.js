@@ -7,3 +7,5 @@ function printHello(name) {
 }
 
 printHello(username);
+
+// new feature for 2024
