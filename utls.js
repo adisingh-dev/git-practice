@@ -1,10 +1,11 @@
-const pieces = ['king', 'queen', 'knight'];
+const pieces = ['king', 'queen', 'knight', 'pawn'];
 
 const getStrength = function(piece) {
     switch (piece) {
         case "king": return 10;
         case "queen": return 9;
         case "knight": return 3;
+        case "pawn": return 1;
     }
 }
 
