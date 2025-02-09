@@ -20,3 +20,5 @@ const movePiece = function(piece) {
 
 // add new feature
 // fix bug in new feature
+
+// major bug fixed
